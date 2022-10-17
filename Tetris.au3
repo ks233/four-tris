@@ -25,7 +25,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/gpl.html>.
 #ce
-
+#include <WinAPI.au3>
 #include <WinAPIGDI.au3>
 #include <WinAPISys.au3>
 #include <WinAPIMisc.au3>
